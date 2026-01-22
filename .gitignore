@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+*.log
+
+# VS Code / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# MATLAB / Simulink generated
+*.asv
+*.m~ 
+*.slxc
+slprj/
+codegen/
+*.mex*
+
+# Data / output
+output/
+results/
+pcaps/
